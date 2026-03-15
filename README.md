@@ -141,6 +141,6 @@ cargo test
 - **非同期ランタイム**: tokio
 - **GitHub API**: GraphQL (Projects v2)
 
-## ライセンス
-
-MIT
+## その他
+- Claude Codeでガッと書かせました
+- 今後機能をいろいろ追加していく所存
